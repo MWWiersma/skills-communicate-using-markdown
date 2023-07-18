@@ -16,3 +16,8 @@ Creating samples for the headers.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+##### A task list:
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
